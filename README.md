@@ -18,19 +18,19 @@
   <sub>Heavily inspired by <a href="https://github.com/scopsy/await-to-js">await-to-js</a></sub>
 </div>
 <div align="center">
-  <img src="https://github.com/zMotivat0r/oO/raw/master/img/example3.png" alt="Example" />
+  <img src="https://github.com/zMotivat0r/oO/raw/master/img/example4.png" alt="Example" />
 </div>
 
 ## :rocket: Install
 
 ```shell
-npm i oO
+npm i @zmotivat0r/o0
 ```
 
 ## :eyeglasses: Usage
 
 ```typescript
-import { oO } from 'oO';
+import { oO } from '@zmotivat0r/o0';
 
 async function do() {
   const [err, user] = await oO(findUser(1));
