@@ -1,0 +1,37 @@
+{
+  "name": "oO",
+  "description": "Async/await wrapper for error handling with retry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zMotivat0r/oO.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zMotivat0r/oO/issues"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "error",
+    "handler",
+    "promise",
+    "es2018",
+    "async",
+    "asyncawait",
+    "try",
+    "catch",
+    "trycatch",
+    "retry",
+    "go",
+    "golang",
+    "await-to-js",
+    "await-to-ts"
+  ],
+  "author": {
+    "name": "Michael Yali",
+    "email": "mihon4ik@gmail.com"
+  },
+  "license": "MIT"
+}

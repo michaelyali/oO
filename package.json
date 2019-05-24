@@ -1,0 +1,29 @@
+{
+  "name": "0_o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "npx rimraf \"dist/**/*.{ts,js,map}\"",
+    "prebuild": "npm run clean",
+    "build": "npx tsc -b tsconfig.build.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zMotivat0r/0_o.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zMotivat0r/0_o/issues"
+  },
+  "homepage": "https://github.com/zMotivat0r/0_o#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "@types/node": "^12.0.2",
+    "jest": "^24.8.0",
+    "rimraf": "^2.6.3",
+    "typescript": "^3.4.5"
+  }
+}
