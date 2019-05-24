@@ -21,13 +21,13 @@
   <img src="https://github.com/zMotivat0r/oO/raw/master/img/example3.png" alt="Example" />
 </div>
 
-## Install :rocket:
+## :rocket: Install
 
 ```shell
 npm i oO
 ```
 
-## Usage :eyeglasses:
+## :eyeglasses: Usage
 
 ```typescript
 import { oO } from 'oO';
@@ -45,7 +45,7 @@ async function do() {
 }
 ```
 
-## Test :hammer:
+## :hammer: Test
 
 ```shell
 npm test
