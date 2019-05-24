@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://github.com/zMotivat0r/oO/raw/master/img/example.png" alt="Example" />
-</p>
-
 # oO
 
 Async/await wrapper for error handling with retry :yellow_heart:
+
+<p align="center">
+  <img src="https://github.com/zMotivat0r/oO/raw/master/img/example.png" alt="Example" />
+</p>
 
 ## Install
 
