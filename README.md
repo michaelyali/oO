@@ -21,8 +21,32 @@
   <img src="https://github.com/zMotivat0r/oO/raw/master/img/example3.png" alt="Example" />
 </div>
 
-## Install
+## Install :rocket:
 
 ```shell
 npm i oO
+```
+
+## Usage :eyeglasses:
+
+```typescript
+import { oO } from 'oO';
+
+async function do() {
+  const [err, user] = await oO(findUser(1));
+
+  const [, projects] = await oO(findProjects(1), {
+    retry: 5,
+  });
+
+  const [customError] = await oO(doStuff(), {
+    err: new SomeCustomError('(>_<)'),
+  });
+}
+```
+
+## Test :hammer:
+
+```shell
+npm test
 ```
