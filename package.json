@@ -2,6 +2,8 @@
   "name": "0_o",
   "version": "1.0.0",
   "scripts": {
+    "test": "npx jest",
+    "coverage": "jest --verbose --coverage --coverageReporters=text-lcov | coveralls",
     "clean": "npx rimraf \"dist/**/*.{ts,js,map}\"",
     "prebuild": "npm run clean",
     "build": "npx tsc -b tsconfig.build.json"
@@ -20,8 +22,10 @@
   "devDependencies": {
     "@types/jest": "^24.0.13",
     "@types/node": "^12.0.2",
+    "coveralls": "^3.0.3",
     "jest": "^24.8.0",
     "rimraf": "^2.6.3",
+    "ts-jest": "^24.0.2",
     "typescript": "^3.4.5"
   }
 }

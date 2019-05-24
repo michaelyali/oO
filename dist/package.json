@@ -1,6 +1,6 @@
 {
   "name": "oO",
-  "description": "Async/await wrapper for error handling with retry",
+  "description": "Async/await wrapper with error handling, retry and error override",
   "version": "1.0.0",
   "main": "index.js",
   "types": "index.d.ts",
