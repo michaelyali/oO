@@ -1,9 +1,10 @@
 # oO
 
-Async/await wrapper for error handling with retry :yellow_heart:
-
 <p align="center">
-  <img src="https://github.com/zMotivat0r/oO/raw/master/img/example2.png" alt="Example" />
+  Async/await wrapper with error handling, retry and error override :yellow_heart:
+</p>
+<p align="center">
+  <img src="https://github.com/zMotivat0r/oO/raw/master/img/example3.png" alt="Example" />
 </p>
 
 ## Install
