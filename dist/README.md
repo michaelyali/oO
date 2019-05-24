@@ -1,7 +1,7 @@
-<h1 align="center">:eyes:</h1>
+<h1 align="center">👀</h1>
 
 <div align="center">
-  <strong>Async/await</strong> wrapper with error handling, retry and error override :purple_heart: :heart: :yellow_heart:
+  <strong>Async/await</strong> wrapper with error handling, retry and error override
 </div>
 
 <div align="center">

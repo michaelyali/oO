@@ -1,7 +1,7 @@
 {
   "name": "@zmotivat0r/o0",
   "description": "Async/await wrapper with error handling, retry and error override",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "types": "index.d.ts",
   "repository": {
